@@ -62,13 +62,6 @@ This project simulates a real-world scenario in which a **content strategy team 
 - How similar content performs across geographies
 - How user-facing systems (like recommendation engines) could be enriched using unstructured data
 
----
-
-## 👀 Live Preview (Screenshots)
-
-<img src="screenshots/top_countries.png" width="600">
-<img src="screenshots/movies_vs_shows_over_time.png" width="600">
-<img src="screenshots/description_similarity_map.png" width="600">
 
 ---
 
