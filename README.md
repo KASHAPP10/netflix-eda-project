@@ -82,7 +82,7 @@ This project simulates a real-world scenario in which a **content strategy team 
 
 ## 🚀 Author
 
-**Avinash Parimeru**  
+**Malhaar Kashyap**  
 Aspiring Data Scientist | Research & Business Strategy | [LinkedIn](https://www.linkedin.com)
 
 ---
